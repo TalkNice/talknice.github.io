@@ -1,0 +1,63 @@
+{%- assign social_links = site.minima.social_links %}
+
+<ul class="social-media-list">
+  {%- if social_links.dribbble %}
+  <li><a href="https://dribbble.com/{{ social_links.dribbble | cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#dribbble' | relative_url }}"></use></svg> <span class="username">{{ social_links.dribbble | escape }}</span></a></li>
+  {%- endif %}
+
+  {%- if social_links.facebook %}
+  <li><a href="https://www.facebook.com/{{ social_links.facebook | cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#facebook' | relative_url }}"></use></svg> <span class="username">{{ social_links.facebook | escape }}</span></a></li>
+  {%- endif %}
+
+  {%- if social_links.flickr %}
+  <li><a href="https://www.flickr.com/photos/{{ social_links.flickr | cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#flickr' | relative_url }}"></use></svg> <span class="username">{{ social_links.flickr | escape }}</span></a></li>
+  {%- endif %}
+
+  {%- if social_links.github or site.github_username %}
+  <li><a href="https://github.com/{{ social_links.github | default: site.github_username | cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg> <span class="username">{{ social_links.github | default: site.github_username | escape }}</span></a></li>
+  {%- endif %}
+
+  {%- if social_links.instagram %}
+  <li><a href="https://www.instagram.com/{{ social_links.instagram | cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#instagram' | relative_url }}"></use></svg> <span class="username">{{ social_links.instagram | escape }}</span></a></li>
+  {%- endif %}
+
+  {%- if social_links.keybase %}
+  <li><a href="https://keybase.io/{{ social_links.keybase | cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#keybase' | relative_url }}"></use></svg> <span class="username">{{ social_links.keybase | escape }}</span></a></li>
+  {%- endif %}
+
+  {%- if social_links.linkedin %}
+  <li><a href="https://www.linkedin.com/in/{{ social_links.linkedin | cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#linkedin' | relative_url }}"></use></svg> <span class="username">{{ social_links.linkedin | escape }}</span></a></li>
+  {%- endif %}
+
+  {%- if social_links.microdotblog %}
+  <li><a href="https://micro.blog/{{ social_links.microdotblog | cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#microdotblog' | relative_url }}"></use></svg> <span class="username">{{ social_links.microdotblog | escape }}</span></a></li>
+  {%- endif %}
+
+  {%- if social_links.pinterest %}
+  <li><a href="https://www.pinterest.com/{{ social_links.pinterest | cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#pinterest' | relative_url }}"></use></svg> <span class="username">{{ social_links.pinterest | escape }}</span></a></li>
+  {%- endif %}
+
+  {%- if site.rss %}
+  <li><a href="{{ 'feed.xml' | relative_url }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#rss' | relative_url }}"></use></svg> <span>{{ site.rss | default: "rss"}}</span></a></li>
+  {%- endif %}
+
+  {%- if social_links.stackoverflow %}
+  <li><a href="https://stackoverflow.com/users/{{ social_links.stackoverflow | cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#stackoverflow' | relative_url }}"></use></svg> <span class="username">{{ social_links.stackoverflow | escape }}</span></a></li>
+  {%- endif %}
+
+  {%- if social_links.telegram %}
+  <li><a href="https://t.me/{{ social_links.telegram | cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#telegram' | relative_url }}"></use></svg> <span class="username">{{ social_links.telegram | escape }}</span></a></li>
+  {%- endif %}
+
+  {%- if social_links.twitter or site.twitter_username %}
+  <li><a href="https://twitter.com/{{ social_links.twitter | default: site.twitter_username | cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#twitter' | relative_url }}"></use></svg> <span class="username">{{ social_links.twitter | default: site.twitter_username | escape }}</span></a></li>
+  {%- endif %}
+
+  {%- if social_links.youtube %}
+  <li><a href="https://www.youtube.com/{{ social_links.youtube | cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#youtube' | relative_url }}"></use></svg> <span class="username">{{ social_links.youtube | escape }}</span></a></li>
+  {%- endif %}
+
+  {%- if social_links.youtube_channel %}
+  <li><a href="https://www.youtube.com/channel/{{ social_links.youtube_channel | cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#youtube' | relative_url }}"></use></svg> <span class="username">{{ social_links.youtube_channel | escape }}</span></a></li>
+  {%- endif %}
+</ul> 
