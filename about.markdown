@@ -1,18 +1,9 @@
 ---
 layout: page
-title: About
 permalink: /about/
+title: About Talk Nice
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Talk Nice is a technology company dedicated to creating innovative AI-powered products. Our mission is to leverage cutting-edge artificial intelligence to build solutions that enhance communication and understanding.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Founded on the principle that technology should empower people, we are constantly exploring new frontiers in AI to deliver products that are not only powerful but also intuitive and beneficial.
