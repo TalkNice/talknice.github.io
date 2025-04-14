@@ -4,34 +4,44 @@ title: "Privacy Policy"
 permalink: /privacy/
 ---
 
-## Privacy Policy
+_Last updated: April 14, 2025_
 
-This is the privacy policy for Talk Nice.
+Thank you for using our app. Your privacy is important to us. This Privacy Policy explains how we handle your data when you use our iOS apps.
 
-*Effective Date: [Insert Date]*
+## Information We Do Not Collect
 
-We are committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website [Your Website URL], including any other media form, media channel, mobile website, or mobile application related or connected thereto (collectively, the "Site"). Please read this privacy policy carefully. If you do not agree with the terms of this privacy policy, please do not access the site.
+We do **not** collect, store, or share any personally identifiable information (PII). This includes your name, email address, phone number, location, or any other information that could identify you.
 
-**Information We Collect**
+## Usage Data
 
-[Detail the types of information collected, e.g., personal data, usage data, cookies, etc.]
+We may collect anonymous usage data to help us understand how the app is being used. This may include:
 
-**How We Use Your Information**
+- Which features are used most frequently
+- App crash reports
+- General interaction patterns
 
-[Explain how the collected information is used.]
+This data is collected **in aggregate** and **cannot be linked** to any specific user. It is used solely to improve the performance, stability, and usability of the app.
 
-**Disclosure of Your Information**
+## AI-Generated Content
 
-[Explain if and how information is shared with third parties.]
+Our apps allows users to generate images using AI based on their input. We do **not** store, share, or associate this input or the generated images with any personal data. We may store the AI-generated content.
 
-**Security of Your Information**
+## Data Sharing
 
-[Describe the security measures in place.]
+We do **not** share your data with third parties.
 
-**Your Privacy Rights**
+## Third-Party Services
 
-[Detail user rights, e.g., access, correction, deletion.]
+Our app may use third-party tools (such as analytics services) that collect anonymized data to help us monitor and improve the app. These tools operate under their own privacy policies and do **not** receive any personal information from us.
 
-**Contact Us**
+## Children's Privacy
 
-If you have questions or comments about this Privacy Policy, please contact us at: [Insert Contact Information] 
+This app does not knowingly collect data from children under the age of 13. As no personal information is collected, the app complies with the Children’s Online Privacy Protection Act (COPPA).
+
+## Changes to This Privacy Policy
+
+We may update this policy from time to time. If we make significant changes, we will notify users through the app or on our website.
+
+---
+
+By using our apps, you agree to the terms outlined in this Privacy Policy.
