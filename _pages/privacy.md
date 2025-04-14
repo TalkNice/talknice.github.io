@@ -24,7 +24,7 @@ This data is collected **in aggregate** and **cannot be linked** to any specific
 
 ## AI-Generated Content
 
-Our apps allows users to generate images using AI based on their input. We do **not** store, share, or associate this input or the generated images with any personal data. We may store the AI-generated content.
+Our apps allows users to generate images using AI based on their input. We do **not** associate this input or the generated images with any personal data. We may retain user inputs and generated images indefinitely to improve the app’s functionality or for internal research. They are not linked to any personal data.
 
 ## Data Sharing
 
@@ -37,6 +37,10 @@ Our app may use third-party tools (such as analytics services) that collect anon
 ## Children's Privacy
 
 This app does not knowingly collect data from children under the age of 13. As no personal information is collected, the app complies with the Children’s Online Privacy Protection Act (COPPA).
+
+## California and Europe Residents
+
+If you are located in California or the European Economic Area, you may have specific rights under the GDPR or CCPA. As we do not collect personal data, these rights are unlikely to apply, but we are committed to complying with applicable laws.
 
 ## Changes to This Privacy Policy
 
