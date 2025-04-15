@@ -26,17 +26,17 @@ This data is collected **in aggregate** and **cannot be linked** to any specific
 
 Our apps allows users to generate images using AI based on their input. We do **not** associate this input or the generated images with any personal data. We may retain user inputs and generated images indefinitely to improve the app’s functionality or for internal research. They are not linked to any personal data.
 
-## Data Sharing
+## Data Selling
 
-We do **not** share your data with third parties.
+We do **not** sell your data to any third party.
 
 ## Third-Party Services
 
-Our app may use third-party tools (such as analytics services) that collect anonymized data to help us monitor and improve the app. These tools operate under their own privacy policies and do **not** receive any personal information from us.
+Our apps use third-party AI tools (such as OpenAI, Google, etc.) by securely sending input data to them in order to generate AI images. Our apps also may collect anonymized usage data using third-party tools to help us monitor and improve the app. These third-party tools operate under their own privacy policies and do **not** receive any personally identifiable information from us.
 
 ## Children's Privacy
 
-This app does not knowingly collect data from children under the age of 13. As no personal information is collected, the app complies with the Children’s Online Privacy Protection Act (COPPA).
+Our apps do not knowingly collect data from children under the age of 13. As no personal information is collected, the app complies with the Children’s Online Privacy Protection Act (COPPA).
 
 ## California and Europe Residents
 
