@@ -22,9 +22,11 @@ We may collect anonymous usage data to help us understand how the app is being u
 
 This data is collected **in aggregate** and **cannot be linked** to any specific user. It is used solely to improve the performance, stability, and usability of the app.
 
+We use any photos that you provide temporarily in generating an output image with AI. Your photos are NEVER stored or shared.
+
 ## AI-Generated Content
 
-Our apps allows users to generate images using AI based on their input. We do **not** associate this input or the generated images with any personal data. We may retain user inputs and generated images indefinitely to improve the app’s functionality or for internal research. They are not linked to any personal data.
+Our apps allows users to generate images using AI based on their input. We do **not** associate this input or the generated images with any personal data. We may retain user text inputs and generated images indefinitely to improve the app’s functionality or for internal research. They are not linked to any personal data.
 
 ## Data Selling
 
