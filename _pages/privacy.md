@@ -4,7 +4,7 @@ title: "Privacy Policy"
 permalink: /privacy/
 ---
 
-_Last updated: April 14, 2025_
+_Last updated: April 23, 2025_
 
 Thank you for using our app. Your privacy is important to us. This Privacy Policy explains how we handle your data when you use our iOS apps.
 
