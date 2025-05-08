@@ -16,7 +16,7 @@ We strive to make our apps as simple and intuitive as possible. If you're having
 - Restart the app or your device
 - Check the App Store for any updates
 
-If you continue to experience issues, you may also find helpful tips or updates on our [App Store page](https://apps.apple.com). 
+If you continue to experience issues, you may also find helpful tips or updates on our [App Store page](https://apps.apple.com/us/app/mini-me-ai-action-figures/id6744563888).
 
 ## Refund Policy
 
